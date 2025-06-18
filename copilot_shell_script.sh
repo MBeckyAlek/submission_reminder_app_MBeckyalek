@@ -1,4 +1,5 @@
 #!/bin/bash
+
 read -p "Enter any assignment" New_assignment
 
 maindir=$(find . -type d  -name "submission_reminder_*" | head -n 1 )

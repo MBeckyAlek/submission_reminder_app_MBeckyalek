@@ -1,3 +1,5 @@
+#!/bin/bash
+
 read -p "Enter a project name: " project
 
 maindir="submission_reminder_${project}"
